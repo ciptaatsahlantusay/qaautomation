@@ -1,0 +1,14 @@
+{
+  "name": "cipta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
